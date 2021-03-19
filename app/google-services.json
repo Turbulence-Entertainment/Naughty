@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "752198812220",
+    "project_id": "naughty-india-5ddea",
+    "storage_bucket": "naughty-india-5ddea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752198812220:android:2de8c68e052962e3d1b939",
+        "android_client_info": {
+          "package_name": "com.pro.naughtyindia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752198812220-qavnjmtbd4kkmkn8a3f00mbukn7rfcp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pro.naughtyindia",
+            "certificate_hash": "711b0e97bf2fa7b81ea3698b54701f9cfb65cd8e"
+          }
+        },
+        {
+          "client_id": "752198812220-uvu3gcj5vqk7liqh1n84mjthqbms3q4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5mojiyssXzAuNTGSztLP7djZ0OsKbhCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752198812220-uvu3gcj5vqk7liqh1n84mjthqbms3q4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
